@@ -1,4 +1,4 @@
 package: .
 import:
 - package: github.com/valvrave-develop/study
-  version: v2.0.0
+  version: v1.0.0
