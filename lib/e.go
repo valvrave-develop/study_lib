@@ -1,7 +1,11 @@
 package lib
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/valvrave-develop/study/c"
+)
 
 func Print() {
 	fmt.Println("hello world")
+	c.Print()
 }
