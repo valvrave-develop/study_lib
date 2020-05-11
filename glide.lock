@@ -1,0 +1,6 @@
+hash: 3e8cff288c047181b03f0f9c956b475f5217b81875c5880543ba79ef086bc0c1
+updated: 2020-05-11T11:04:43.5117551+08:00
+imports:
+- name: github.com/valvrave-develop/study
+  version: 4f0a3e8483e6ff7fabcf3816ea0abc1f4413292e
+testImports: []
